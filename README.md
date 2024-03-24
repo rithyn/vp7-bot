@@ -1,1 +1,1 @@
-# vpx-bot
+# vp7-bot
