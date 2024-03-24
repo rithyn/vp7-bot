@@ -14,8 +14,6 @@ function minutesEnSecondes(minutes) {
     var secondes = minutes * 60 * 1000;
     return secondes;
 }
-
-
 // Scripts of the command builder
 module.exports = {
 	data: new SlashCommandBuilder()
